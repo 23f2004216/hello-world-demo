@@ -1,9 +1,17 @@
-Overview
-- A minimal HTML page that displays “Hello World” centered on the screen.
+# Hello World (Round 2)
 
-Setup
-- No build or dependencies.
-- Download or clone and open index.html in any modern browser.
+## Overview
+A minimal “Hello World” web page that keeps the same centered layout, with the greeting styled to be larger, bold, and blue.
 
-Usage
-- Open index.html to see “Hello World” centered on the page.
+## Setup
+- No build tools required.
+- Open index.html in any modern web browser.
+
+## Usage
+- Double-click index.html or serve it via a simple static server and navigate to it in your browser.
+
+## Improvements from Previous Version (Round 2)
+- Increased text size for better visibility.
+- Applied bold styling to the greeting.
+- Changed text color to blue.
+- Preserved the original centered layout.
